@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Tue Oct 13 13:15:24 2026
+# Process ID         : 21472
+# Current directory  : C:/Users/casto/Documents/2026TAMU/TAMU2026research/vivado_projects/masked_diffusion_llm_implementation
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent88544 C:\Users\casto\Documents\2026TAMU\TAMU2026research\vivado_projects\masked_diffusion_llm_implementation\masked_diffusion_llm_implementation.xpr
+# Log file           : C:/Users/casto/Documents/2026TAMU/TAMU2026research/vivado_projects/masked_diffusion_llm_implementation/vivado.log
+# Journal file       : C:/Users/casto/Documents/2026TAMU/TAMU2026research/vivado_projects/masked_diffusion_llm_implementation\vivado.jou
+# Running On         : Castors_pc
+# Platform           : Windows 11
+# Operating System   : 26300
+# Processor Detail   : AMD Ryzen 7 7735HS with Radeon Graphics        
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16312 MB
+# Swap memory        : 17179 MB
+# Total Virtual      : 33492 MB
+# Available Virtual  : 17014 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/casto/Documents/2026TAMU/TAMU2026research/vivado_projects/masked_diffusion_llm_implementation/masked_diffusion_llm_implementation.xpr
+update_compile_order -fileset sources_1
